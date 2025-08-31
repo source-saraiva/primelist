@@ -47,14 +47,14 @@ Depending on your environment, you can integrate Primelist in several ways:
 #### 🔹 Pi-hole / AdGuard Home (DNS Blockers)  
 - Add the raw list URL directly under **Blocklists**:
 ```bash
-https://raw.githubusercontent.com/source-saraiva/primelist/main/primelist_domains.txt
+https://raw.githubusercontent.com/source-saraiva/primelist/refs/heads/main/primelist_domains.txt
 ```
 - The domains will be blocked at DNS level.  
 - Use `primelist_domains.txt` for stable blocking
 #### 🔹 Hosts File (Workstations or Servers)  
 - Download the file and append its contents to `/etc/hosts`. Make sure to install curl first if it is not already installed.
 ```bash
-curl -s https://raw.githubusercontent.com/source-saraiva/primelist/main/primelist_domains.txt \
+curl -s https://raw.githubusercontent.com/source-saraiva/primelist/refs/heads/main/primelist_domains.txt \
   | sudo tee -a /etc/hosts > /dev/null
  ```
 - Flush DNS cache after updating (if needed).
