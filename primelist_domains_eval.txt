@@ -18,10 +18,8 @@
 0.0.0.0 adexchangeclear.com
 0.0.0.0 vbcojhroxkoaf.online
 0.0.0.0 sportzonline.site
-0.0.0.0 cm65.com
-0.0.0.0 68s8.com
-0.0.0.0 awistats.com
-0.0.0.0 earnsmartwithai.com
+
+
 
 
 
