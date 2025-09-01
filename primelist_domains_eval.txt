@@ -1,4 +1,8 @@
 
+# [2025-09-01]
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 log.fc.yahoo.com
 
 # [2025-08-31]
 0.0.0.0 e.ballydream.com
