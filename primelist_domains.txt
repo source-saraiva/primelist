@@ -6651,9 +6651,6 @@
 0.0.0.0 www.cvsdg.28vau29dnv92sdv.689ckfx4479cb4ch4r.com
 0.0.0.0 www.sbcvgd.09sd31gbr232vblx2.689ckfx4479cb4ch4r.com
 
-# [68s8.com]
-0.0.0.0 68s8.com
-
 # [690.co]
 0.0.0.0 trace.690.co
 
@@ -36861,9 +36858,6 @@
 
 # [awin1.com]
 0.0.0.0 awin1.com
-
-# [awistats.com]
-0.0.0.0 awistats.com
 
 # [awizowane.pl]
 0.0.0.0 awizowane.pl
@@ -76149,9 +76143,6 @@
 
 # [clz.kr]
 0.0.0.0 support.clz.kr
-
-# [cm65.com]
-0.0.0.0 cm65.com
 
 # [cmail20.com]
 0.0.0.0 anouslab.cmail20.com
@@ -115518,9 +115509,6 @@
 0.0.0.0 web.earnpro9.com
 0.0.0.0 www.cfd.earnpro9.com
 0.0.0.0 www.web.earnpro9.com
-
-# [earnsmartwithai.com]
-0.0.0.0 earnsmartwithai.com
 
 # [earnstock.uk]
 0.0.0.0 cfd.earnstock.uk
@@ -187930,7 +187918,9 @@
 
 # [hicloud.com]
 0.0.0.0 grs.hicloud.com
+0.0.0.0 logbak.hicloud.com
 0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
@@ -460254,6 +460244,7 @@
 0.0.0.0 it.adserver.yahoo.com
 0.0.0.0 latam.adspecs.yahoo.com
 0.0.0.0 launch.adserver.yahoo.com
+0.0.0.0 log.fc.yahoo.com
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 mx.adserver.yahoo.com
