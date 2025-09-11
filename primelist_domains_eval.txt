@@ -17839,7 +17839,7 @@ ad.allstar.cz
 
 # [google.com]
 0.0.0.0 adservice.google.com
-0.0.0.0 analytics.google.com
+#0.0.0.0 analytics.google.com
 
 # [googlesyndication.com]
 0.0.0.0 pagead2.googlesyndication.com
