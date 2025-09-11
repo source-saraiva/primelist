@@ -159467,7 +159467,7 @@
 # [google.com]
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
-0.0.0.0 analytics.google.com
+#0.0.0.0 analytics.google.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 marketingplatform.google.com
