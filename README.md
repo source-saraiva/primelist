@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=source-saraiva.primelist)
+
 # 🛡️ Primelist
 
 Curated hosts and IP blocklists for use in DNS blockers, firewalls, and proxies.  
