@@ -17974,6 +17974,9 @@
 # [aff12.com]
 0.0.0.0 aff12.com
 
+# [aff888gioladew.com]
+0.0.0.0 aff888gioladew.com
+
 # [affableavocet.pro]
 0.0.0.0 affableavocet.pro
 0.0.0.0 www.affableavocet.pro
@@ -51822,6 +51825,9 @@
 # [bookmotnearme.com]
 0.0.0.0 bookmotnearme.com
 0.0.0.0 www.bookmotnearme.com
+
+# [bookmsg.com]
+0.0.0.0 static.bookmsg.com
 
 # [bookmycook.net]
 0.0.0.0 bookmycook.net
@@ -122024,6 +122030,9 @@
 
 # [enhance.com]
 0.0.0.0 www.enhance.com
+
+# [enhancemarketing.shop]
+0.0.0.0 enhancemarketing.shop
 
 # [enhancemywealth.com]
 0.0.0.0 enhancemywealth.com
@@ -246476,6 +246485,9 @@
 0.0.0.0 magictime.live
 0.0.0.0 www.magictime.live
 
+# [magictrrop.works]
+0.0.0.0 www.magictrrop.works
+
 # [magicvalley.com]
 0.0.0.0 onlineads.magicvalley.com
 
@@ -302989,6 +303001,9 @@
 # [pho8.com]
 0.0.0.0 app.pho8.com
 
+# [phoangaisool.com]
+0.0.0.0 phoangaisool.com
+
 # [phobia.net]
 0.0.0.0 phobia.net
 
@@ -326816,6 +326831,9 @@
 # [pubexchange.com]
 0.0.0.0 traffic.pubexchange.com
 
+# [pubfuture.com]
+0.0.0.0 pubfuture.com
+
 # [publeadmedia.com]
 0.0.0.0 track.publeadmedia.com
 
@@ -328519,6 +328537,9 @@
 
 # [pushtrack.co]
 0.0.0.0 pushtrack.co
+
+# [pushub.net]
+0.0.0.0 pushub.net
 
 # [pushvaried.club]
 0.0.0.0 pushvaried.club
@@ -337168,6 +337189,9 @@
 0.0.0.0 rasfed0.site
 0.0.0.0 www.rasfed0.site
 
+# [rashcolonizeexpand.com]
+0.0.0.0 rashcolonizeexpand.com
+
 # [rashflash.com]
 0.0.0.0 adz.rashflash.com
 
@@ -339349,6 +339373,9 @@
 # [recipeplan.info]
 0.0.0.0 recipeplan.info
 0.0.0.0 www.recipeplan.info
+
+# [recipioapp.com]
+0.0.0.0 recipioapp.com
 
 # [recipparim.pro]
 0.0.0.0 recipparim.pro
@@ -371077,6 +371104,9 @@
 0.0.0.0 skinningself.com
 0.0.0.0 www.skinningself.com
 
+# [skinnycrawlinglax.com]
+0.0.0.0 skinnycrawlinglax.com
+
 # [skinnyseriema.pro]
 0.0.0.0 skinnyseriema.pro
 0.0.0.0 www.skinnyseriema.pro
@@ -372312,6 +372342,9 @@
 
 # [slowmacfaster.trade]
 0.0.0.0 slowmacfaster.trade
+
+# [slowmarketing.shop]
+0.0.0.0 re.slowmarketing.shop
 
 # [slowpokesxg.info]
 0.0.0.0 slowpokesxg.info
@@ -388954,6 +388987,9 @@
 # [strikinglightningbolts.pro]
 0.0.0.0 strikinglightningbolts.pro
 0.0.0.0 www.strikinglightningbolts.pro
+
+# [striksimpler.shop]
+0.0.0.0 striksimpler.shop
 
 # [strimimput.pro]
 0.0.0.0 strimimput.pro
@@ -411538,6 +411574,9 @@
 # [torchbrowser.com]
 0.0.0.0 download.cdn.torchbrowser.com
 0.0.0.0 lp.torchbrowser.com
+
+# [torchfriendlypay.com]
+0.0.0.0 torchfriendlypay.com
 
 # [torciscapp.pro]
 0.0.0.0 torciscapp.pro
@@ -438645,6 +438684,9 @@
 0.0.0.0 code.vihub.ru
 0.0.0.0 dmp.vihub.ru
 
+# [viiayrmr.com]
+0.0.0.0 viiayrmr.com
+
 # [viiqvmfb.com]
 0.0.0.0 s.viiqvmfb.com
 
@@ -446830,6 +446872,9 @@
 
 # [wayfair.com]
 0.0.0.0 t.wayfair.com
+
+# [wayfarerorthodox.com]
+0.0.0.0 wayfarerorthodox.com
 
 # [wayfarerspoutpraise.com]
 0.0.0.0 wayfarerspoutpraise.com
