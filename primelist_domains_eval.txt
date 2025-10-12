@@ -1,7 +1,25 @@
 #--------------[TACKLING SPOTIFY]--------------
-0.0.0.0 securepubads.g.doubleclick.net
+
+
+
+
+#--------------[TACKLING MISCELLANEOUS ADs]--------------
+0.0.0.0 pubfuture.com
+0.0.0.0 static.bookmsg.com
+0.0.0.0 phoangaisool.com
+0.0.0.0 recipioapp.com
+0.0.0.0 viiayrmr.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 app-measurement.com
-0.0.0.0 canvaz.scdn.co
-0.0.0.0 aet.spotify.com
-0.0.0.0 i.scdn.co
+0.0.0.0 aff888gioladew.com
+0.0.0.0 pushub.net
+0.0.0.0 torchfriendlypay.com
+0.0.0.0 skinnycrawlinglax.com
+0.0.0.0 rashcolonizeexpand.com
+0.0.0.0 wayfarerorthodox.com
+0.0.0.0 striksimpler.shop
+0.0.0.0 www.magictrrop.works
+0.0.0.0 enhancemarketing.shop
+0.0.0.0 re.slowmarketing.shop
+0.0.0.0 
