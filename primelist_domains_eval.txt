@@ -23,4 +23,23 @@
 0.0.0.0 www.magictrrop.works
 0.0.0.0 enhancemarketing.shop
 0.0.0.0 re.slowmarketing.shop
-0.0.0.0 
+0.0.0.0 taiteemozathou.com
+0.0.0.0 1wyvrz.life
+0.0.0.0 cdn.pubfuture-ad.com
+0.0.0.0 static.cdn.monetixads.com
+0.0.0.0 pubfuture.rtb.admatic.de
+0.0.0.0 pubfuture.rtb.monetixads.com
+0.0.0.0 c1.adform.net
+0.0.0.0 pubfuture.rtb.adtarget.biz
+0.0.0.0 onclckmetrics.com
+0.0.0.0 match.adsrvr.org
+0.0.0.0 ad.a-ads.com
+0.0.0.0 platform.pubadx.one
+0.0.0.0 ib.adnxs.com
+0.0.0.0 ap.lijit.com
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 pbs.anyadx.live
+0.0.0.0 n1.smartyads.com
+0.0.0.0 ads.betweendigital.com
+0.0.0.0 click-v4.preclksize.com
+0.0.0.0 prebid.anyclip.com 
