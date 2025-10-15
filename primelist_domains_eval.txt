@@ -4,6 +4,7 @@
 
 
 #--------------[TACKLING MISCELLANEOUS ADs]--------------
+0.0.0.0 media.pubfuture.com
 0.0.0.0 pubfuture.com
 0.0.0.0 static.bookmsg.com
 0.0.0.0 phoangaisool.com
