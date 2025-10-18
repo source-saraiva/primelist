@@ -1529,6 +1529,9 @@
 # [1www.cn]
 0.0.0.0 www.wowjs.1www.cn
 
+# [1wyvrz.life]
+0.0.0.0 1wyvrz.life
+
 # [1xeasycash.com]
 0.0.0.0 1xeasycash.com
 0.0.0.0 www.1xeasycash.com
@@ -14114,6 +14117,9 @@
 # [admathhd.com]
 0.0.0.0 s.admathhd.com
 
+# [admatic.de]
+0.0.0.0 pubfuture.rtb.admatic.de
+
 # [admatrix.jp]
 0.0.0.0 sync-tapi.admatrix.jp
 
@@ -16030,6 +16036,9 @@
 
 # [adtaily.pl]
 0.0.0.0 adtaily.pl
+
+# [adtarget.biz]
+0.0.0.0 pubfuture.rtb.adtarget.biz
 
 # [adtarget.me]
 0.0.0.0 static-trackers.adtarget.me
@@ -19462,6 +19471,9 @@
 # [ahmedrohym.com]
 0.0.0.0 ahmedrohym.com
 0.0.0.0 www.ahmedrohym.com
+
+# [ahmybid.net]
+0.0.0.0 assets.ahmybid.net
 
 # [ahnnacho.com]
 0.0.0.0 ahnnacho.com
@@ -27508,6 +27520,9 @@
 0.0.0.0 any-postcodes.com
 0.0.0.0 www.any-postcodes.com
 
+# [anyadx.live]
+0.0.0.0 pbs.anyadx.live
+
 # [anyahis.com]
 0.0.0.0 anyahis.com
 0.0.0.0 www.anyahis.com
@@ -27522,6 +27537,9 @@
 
 # [anyclip-media.com]
 0.0.0.0 ssp.anyclip-media.com
+
+# [anyclip.com]
+0.0.0.0 prebid.anyclip.com
 
 # [anycracks.com]
 0.0.0.0 anycracks.com
@@ -260771,6 +260789,10 @@
 0.0.0.0 monetimbro.pro
 0.0.0.0 www.monetimbro.pro
 
+# [monetixads.com]
+0.0.0.0 pubfuture.rtb.monetixads.com
+0.0.0.0 static.cdn.monetixads.com
+
 # [monetixceis.com]
 0.0.0.0 monetixceis.com
 0.0.0.0 www.monetixceis.com
@@ -287494,6 +287516,9 @@
 # [onclasrv.com]
 0.0.0.0 go.onclasrv.com
 0.0.0.0 onclasrv.com
+
+# [onclckmetrics.com]
+0.0.0.0 onclckmetrics.com
 
 # [onclickads.net]
 0.0.0.0 onclickads.net
@@ -320119,6 +320144,9 @@
 0.0.0.0 preclgastr.pro
 0.0.0.0 www.preclgastr.pro
 
+# [preclksize.com]
+0.0.0.0 click-v4.preclksize.com
+
 # [precoabstr.pro]
 0.0.0.0 precoabstr.pro
 0.0.0.0 www.precoabstr.pro
@@ -326806,6 +326834,9 @@
 0.0.0.0 go.pub2srv.com
 0.0.0.0 pub2srv.com
 
+# [pubadx.one]
+0.0.0.0 platform.pubadx.one
+
 # [pubbldisna.pro]
 0.0.0.0 pubbldisna.pro
 0.0.0.0 www.pubbldisna.pro
@@ -326831,8 +326862,13 @@
 # [pubexchange.com]
 0.0.0.0 traffic.pubexchange.com
 
+# [pubfuture-ad.com]
+0.0.0.0 cdn.pubfuture-ad.com
+
 # [pubfuture.com]
+0.0.0.0 media.pubfuture.com
 0.0.0.0 pubfuture.com
+0.0.0.0 s3.pubfuture.com
 
 # [publeadmedia.com]
 0.0.0.0 track.publeadmedia.com
@@ -373756,6 +373792,7 @@
 0.0.0.0 smartxads.com
 
 # [smartyads.com]
+0.0.0.0 n1.smartyads.com
 0.0.0.0 n2.smartyads.com
 0.0.0.0 smartyads.com
 
@@ -397044,6 +397081,9 @@
 # [taistbuche.pro]
 0.0.0.0 taistbuche.pro
 0.0.0.0 www.taistbuche.pro
+
+# [taiteemozathou.com]
+0.0.0.0 taiteemozathou.com
 
 # [taiwanmetalmanufacturer.net]
 0.0.0.0 taiwanmetalmanufacturer.net
