@@ -1,5 +1,17 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=source-saraiva.primelist)
 
+> ⚠️ **Project Transition Notice**
+>
+> This repository is no longer actively maintained.
+>
+> The project has been migrated to [**Skillmio**](https://github.com/skillmio/), where it continues as an actively developed and supported initiative.
+>
+> 🔗 **New home:** https://github.com/skillmio/blocklists
+>
+> Contributions, issues, and discussions should now be directed to the Skillmio repository.
+
+
+
 # 🛡️ Primelist
 
 Curated hosts and IP blocklists for use in DNS blockers, firewalls, and proxies.  
